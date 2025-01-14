@@ -12,6 +12,57 @@
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,figma" />
 
+apple
+windows
+
+figma
+ps
+xd
+
+aws
+bitbucket
+bootstrap
+cloudflare
+codepen
+css
+discord
+
+firebase
+flask
+flutter
+gcp
+git
+gmail
+gradle
+heroku
+html
+js
+jenkins	
+jquery
+php
+
+laravel
+
+linux
+nginx
+
+mysql
+postgres
+postman
+
+prisma
+
+rails
+ruby
+nodejs
+notion
+sublime
+symfony
+ts
+jest
+wordpress
+
+vscode
 
 ## 📈 Status
 [![Followers](https://badgen.org/img/zenn/rabbit/followers?style=flat)](https://zenn.dev/rabbit)
